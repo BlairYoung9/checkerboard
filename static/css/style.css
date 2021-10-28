@@ -1,0 +1,27 @@
+.color1{
+    display:inline-flex;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.color2{
+    display:inline-flex;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+
+.red{
+    display:inline-flex;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.black{
+    display:inline-flex;
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
